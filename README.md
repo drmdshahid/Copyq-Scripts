@@ -1,5 +1,5 @@
 # Copyq-Scripts
-A few copyq command scripts.
+A few [copyq](https://github.com/hluk/CopyQ) command scripts.
 
 ## Quicksave
 Purpose is to save a clipboard item as file to a preset path using available tags as it's file name, and avoiding a dialogue for user input.
